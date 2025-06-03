@@ -1,3 +1,4 @@
+/* global confirm */
 import "./NoteEaseMainContainer.css";
 
 // PUBLIC_INTERFACE
